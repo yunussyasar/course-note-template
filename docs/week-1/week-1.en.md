@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: default
+theme: 
 style: |
     img[alt~="center"] {
       display: block;
@@ -46,15 +46,15 @@ math: katex
 
 <!-- _backgroundColor: aquq -->
 
-<!-- _color: orange -->
+<!-- _color: red -->
 
-<!-- paginate: false -->
+<!-- paginate: blue -->
 
-## Sample Course Name
+## 
 
 ### Week-1 (Sample Course Module Name)
 
-#### Spring Semester, 20XX-20XX
+#### Fall, 2022-2023
 
 Download [DOC](week-1.en.md_doc.pdf), [SLIDE](week-1.en.md_slide.pdf), [PPTX](week-1.en.md_slide.pptx)
 
@@ -64,20 +64,20 @@ Download [DOC](week-1.en.md_doc.pdf), [SLIDE](week-1.en.md_slide.pdf), [PPTX](we
 
 <!-- paginate: true -->
 
-### Outline
+### BIOLOGY
 
-- Sample Outline
-- Sample Outline
-- Sample Outline
-- Sample Outline
-
----
-
-## **Sample Topic**
+- Muscular Systems
+- İdrar sistemi
+- The Circulatory System
+- Digestive System
 
 ---
 
-### Sample Topic
+## **Muscular Systems**
+
+---
+
+### Part of Muscular Systems
 
 - **What is Lorem Ipsum?**
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
@@ -213,7 +213,7 @@ $$
 
 ---
 
-**TODO** UPDATE CONTENT FOR YOUR COURSE NOTES
+**END OF THE COURSE** See you in next week.
 
 --- 
 

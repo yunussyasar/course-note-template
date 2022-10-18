@@ -1,12 +1,12 @@
 # Project information
-site_name: RTEU Course Notes Templates
+site_name: yunussyasar
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
 site_author: 'Asst. Prof. Dr. Uğur CORUH'
 site_url: 'https://ucoruh.github.io/course-note-template/'
 
 site_description_en: >-
-    Course Notes Templates
+    Course Notes Template
 
 site_description_tr: >-
     Ders Notu Şablonu
@@ -33,7 +33,7 @@ copyright: Copyright &copy; 2019 - 2022 Asst. Prof. Dr. Uğur CORUH
 #       text: Roboto
         
 # Configuration
-theme:
+theme: default
   name: material
   custom_dir: docs/overrides/
   #name: null

@@ -46,7 +46,7 @@ math: katex
 
 <!-- _backgroundColor: aquq -->
 
-<!-- _color: orange -->
+<!-- _color: blue -->
 
 <!-- paginate: false -->
 
